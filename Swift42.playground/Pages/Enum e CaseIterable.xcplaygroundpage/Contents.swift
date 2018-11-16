@@ -1,4 +1,4 @@
-//: [Previous](@previous)
+//: [Assunto Anterior](@previous)
 
 /*:
  # Enums e o protocolo CaseIterable
@@ -50,4 +50,4 @@ for numero in Numeros.allCases {
     print(numero.rawValue)
 }
 
-//: [Next](@next)
+//: [Próximo assunto](@next)

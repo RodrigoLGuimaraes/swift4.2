@@ -1,4 +1,4 @@
-//: [Previous](@previous)
+//: [Assunto Anterior](@previous)
 
 /*:
  Agora vetores(Arrays) podem ser embaralhados facilmente. Se você tinha um vetor(Array) e quisesse embaralhar a ordem dos itens no Swift <= 4 você mesmo teria que codificar um algoritmo pra fazer isso. Agora toma apenas uma linha de código:
@@ -39,4 +39,4 @@ paises.append("china")
 
 paises.allSatisfy { $0.primeiraLetraEMaiuscula() }
 
-//: [Next](@next)
+//: [Próximo assunto](@next)

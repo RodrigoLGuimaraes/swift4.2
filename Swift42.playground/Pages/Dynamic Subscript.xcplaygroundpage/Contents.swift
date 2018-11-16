@@ -1,4 +1,4 @@
-//: [Previous](@previous)
+//: [Assunto Anterior](@previous)
 
 /*:
  Esse conceito é muito usado em outras linguagens, principalmente linguages scriptadas, mas na minha visão, se você precisa usar algo como isso, você provavelmente não achou a melhor solução para o seu problema. Por isso, vou cobrir de forma bem breve essa nova funcionalidade.
@@ -38,4 +38,4 @@ let naoEncontrado: Int = mercearia.blabla
 //Essa linha não compila porque o swift não sabe decidir qual método subscript chamar
 //let essaLinhaNaoCompila = mercearia.qualquerCoisa
 
-//: [Next](@next)
+//: [Próximo assunto](@next)
